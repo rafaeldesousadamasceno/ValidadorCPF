@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+    color: black;
+    font: normal 30pt Arial;
+    text-align: center;
+}
+
+div {
+    border: 2px;
+    border-radius: 10px;
+    margin: auto;
+}
